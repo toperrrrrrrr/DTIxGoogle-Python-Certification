@@ -1,2 +1,10 @@
 code blocks, Jupyter notebooks, and Qwiklabs.
 
+What is the difference between scripting and programming.
+
+What is programming? Programming is a recipe you created that the computer runs for you. 
+
+Script is a small program that can be writtern and executed quickly. 
+
+
+interpreter reads your code and translates it for the computer to follow.
