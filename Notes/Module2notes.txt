@@ -1,0 +1,9 @@
+Variables - Names we gave a value to be reused. It is a storage for data.
+
+Assignment- the process of giving value to a variable
+
+Variables must start with letters. 
+
+Float,integer, double can be used in a expression. Implicit conversion
+
+Explicit conversion str() 
